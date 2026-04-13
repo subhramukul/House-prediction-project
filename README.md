@@ -30,4 +30,11 @@ This project predicts house prices using machine learning regression models.
 2. Run the notebook or script
 
 ## 🎯 Result
-Achieved good accuracy in predicting house prices.
+
+The model successfully predicts house prices using machine learning.
+
+- R² Score: 0.85   <!-- replace with your actual score -->
+- Mean Absolute Error: (your value)
+
+### 📊 Output Visualization
+![Dashboard](ml_dashboard.png)
